@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! I'm Mark  👋
+You can find my CV <a href="https://github.com/mark47B/mark47B/blob/3f2cd007c2b3b34ede4f133f81e4730dad729c9c/CV_Mark_Bzm_Back-end.pdf">here</a> 😉
 
 <!--
 **mark47B/mark47B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
