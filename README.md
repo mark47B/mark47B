@@ -1,6 +1,8 @@
 # Mark Bezmaslov  
 You can find my [CV in Russian here](https://github.com/mark47B/mark47B/blob/main/Bezmaslov_CV_RU.pdf) (Download to use the links)
 
+[EN CV](https://github.com/mark47B/mark47B/blob/main/Bezmaslov_CV_EN.pdf)
+
 📧 [mark472013316@gmail.com](mailto:mark472013316@gmail.com)  
 💬 [Telegram: @MarkBzm](https://t.me/MarkBzm)  
 
