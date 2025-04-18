@@ -23,7 +23,7 @@ You can find my [CV in Russian here](https://github.com/mark47B/mark47B/blob/mai
 
 **Oct 2024 – Present**  
 **Software Engineer** | ITMO University  
-- Developed an optimization module for the open-source project [BlocksNet](https://github.com/aimclub/blocksnet/pull/121).
+- Developed an optimization module for the open-source project [BlocksNet](https://github.com/aimclub/blocksnet/pull/124).
 - Designed the architecture for the integration of the optimizer.
 - Developed and implemented heuristic algorithms.
 - Selected and integrated a Black-box optimization algorithm based on publication analysis and competitions.
